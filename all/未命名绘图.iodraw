@@ -36,7 +36,7 @@
         <mxCell id="0AraoTO8Tf-SNq8zP5B5-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;拥有&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-680" y="-580" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0AraoTO8Tf-SNq8zP5B5-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0AraoTO8Tf-SNq8zP5B5-10" target="0AraoTO8Tf-SNq8zP5B5-15" edge="1">
+        <mxCell id="0AraoTO8Tf-SNq8zP5B5-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="0AraoTO8Tf-SNq8zP5B5-10" target="0AraoTO8Tf-SNq8zP5B5-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0AraoTO8Tf-SNq8zP5B5-10" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;教研室&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=0" parent="1" vertex="1">
