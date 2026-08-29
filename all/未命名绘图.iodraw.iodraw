@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3226" dy="1242" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
+    <mxGraphModel dx="2227" dy="731" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -233,7 +233,7 @@
         <mxCell id="56JTBY622wwseTOTB9kN-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.638;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="56JTBY622wwseTOTB9kN-36" target="56JTBY622wwseTOTB9kN-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="56JTBY622wwseTOTB9kN-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="56JTBY622wwseTOTB9kN-81">
+        <mxCell id="56JTBY622wwseTOTB9kN-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="56JTBY622wwseTOTB9kN-74">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="521.2857142857147" y="1223.9524536132812" as="targetPoint" />
           </mxGeometry>
@@ -278,6 +278,9 @@
         <mxCell id="56JTBY622wwseTOTB9kN-79" value="word_aligned?" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="448" y="1224" width="148" height="62" as="geometry" />
         </mxCell>
+        <mxCell id="56JTBY622wwseTOTB9kN-81" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="457" y="1050" width="36" height="34" as="geometry" />
+        </mxCell>
         <mxCell id="56JTBY622wwseTOTB9kN-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="56JTBY622wwseTOTB9kN-83" target="56JTBY622wwseTOTB9kN-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -295,15 +298,6 @@
         </mxCell>
         <mxCell id="56JTBY622wwseTOTB9kN-96" value="异常输出信号生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="615" y="1019" width="162" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="56JTBY622wwseTOTB9kN-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="56JTBY622wwseTOTB9kN-74" target="56JTBY622wwseTOTB9kN-81">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="521.2857142857147" y="1223.9524536132812" as="targetPoint" />
-            <mxPoint x="437" y="1089" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="56JTBY622wwseTOTB9kN-81" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="455" y="1056" width="36" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
