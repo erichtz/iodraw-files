@@ -311,11 +311,19 @@
             <mxPoint x="1" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="56JTBY622wwseTOTB9kN-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="56JTBY622wwseTOTB9kN-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1191.3333333333335" y="1150.0001017252607" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="56JTBY622wwseTOTB9kN-106" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;stall[1] || flush || !word_aligned ?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="914" y="998" width="370" height="80" as="geometry" />
         </mxCell>
         <mxCell id="56JTBY622wwseTOTB9kN-109" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ice = 0&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;（本拍不允许取值）&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="920" y="1161" width="174" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="56JTBY622wwseTOTB9kN-111" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ice = 0&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;（本拍不允许取值）&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="930" y="1171" width="174" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
