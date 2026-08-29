@@ -99,19 +99,11 @@
         <mxCell id="56JTBY622wwseTOTB9kN-35" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="433" y="496" width="36" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="56JTBY622wwseTOTB9kN-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="56JTBY622wwseTOTB9kN-36">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-72" y="906" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="355" y="803" />
-              <mxPoint x="66" y="803" />
-              <mxPoint x="66" y="893" />
-              <mxPoint x="-125" y="893" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="56JTBY622wwseTOTB9kN-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="56JTBY622wwseTOTB9kN-36" target="56JTBY622wwseTOTB9kN-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="56JTBY622wwseTOTB9kN-36" value="本周期PC更新完成" style="rounded=0;whiteSpace=wrap;html=1;arcSize=50;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="295" y="730" width="120" height="40" as="geometry" />
+          <mxGeometry x="295" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="56JTBY622wwseTOTB9kN-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.122;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="56JTBY622wwseTOTB9kN-13" target="56JTBY622wwseTOTB9kN-36">
           <mxGeometry relative="1" as="geometry" />
