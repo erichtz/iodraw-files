@@ -79,7 +79,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="56JTBY622wwseTOTB9kN-23" value="stall[0] ==NOSTOP?" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="475" y="500" width="170" height="55" as="geometry" />
+          <mxGeometry x="464" y="500" width="188" height="68" as="geometry" />
         </mxCell>
         <mxCell id="56JTBY622wwseTOTB9kN-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="56JTBY622wwseTOTB9kN-26" target="56JTBY622wwseTOTB9kN-36">
           <mxGeometry relative="1" as="geometry" />
