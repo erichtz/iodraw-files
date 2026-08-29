@@ -44,8 +44,13 @@
         <mxCell id="56JTBY622wwseTOTB9kN-13" value="pc &amp;lt;= cp0_excaddr" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="239" y="603" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="56JTBY622wwseTOTB9kN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="56JTBY622wwseTOTB9kN-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="56JTBY622wwseTOTB9kN-17" value="flush == 1?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="410" width="80" height="80" as="geometry" />
+          <mxGeometry x="390" y="410" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
