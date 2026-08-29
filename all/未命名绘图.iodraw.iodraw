@@ -343,6 +343,9 @@
         <mxCell id="56JTBY622wwseTOTB9kN-121" value="ice使能信号生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1284" y="989" width="149" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="56JTBY622wwseTOTB9kN-122" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="127" y="1731" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
