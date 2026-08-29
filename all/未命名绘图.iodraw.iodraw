@@ -211,8 +211,8 @@
         <mxCell id="56JTBY622wwseTOTB9kN-67" value="更新PC寄存器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="621" y="144" width="114" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="56JTBY622wwseTOTB9kN-70" value="更新PC寄存器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-462" y="859" width="114" height="30" as="geometry" />
+        <mxCell id="56JTBY622wwseTOTB9kN-70" value="计算pc_next" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-455" y="859" width="101" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
