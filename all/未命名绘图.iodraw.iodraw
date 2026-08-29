@@ -235,11 +235,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="56JTBY622wwseTOTB9kN-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="56JTBY622wwseTOTB9kN-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="521.2857142857147" y="1223.9524536132812" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="56JTBY622wwseTOTB9kN-74" value="cpu_rst ==RST_ENABLE?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="247.75" y="1028" width="189.5" height="61" as="geometry" />
         </mxCell>
         <mxCell id="56JTBY622wwseTOTB9kN-77" value="if_exccode_o = EXC_NONE&lt;div&gt;if_badvaddr_o = ZERO_WORD&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="139" y="1244" width="186" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="56JTBY622wwseTOTB9kN-79" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="481" y="1234" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
