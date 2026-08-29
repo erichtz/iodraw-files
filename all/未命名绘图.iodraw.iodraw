@@ -81,11 +81,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="56JTBY622wwseTOTB9kN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="56JTBY622wwseTOTB9kN-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="56JTBY622wwseTOTB9kN-23" value="stall[0] ==NOSTOP?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="475" y="500" width="170" height="55" as="geometry" />
         </mxCell>
         <mxCell id="56JTBY622wwseTOTB9kN-26" value="pc &amp;lt;= pc_next" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="381" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="56JTBY622wwseTOTB9kN-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="616" y="488" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
