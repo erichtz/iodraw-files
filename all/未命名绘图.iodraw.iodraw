@@ -298,8 +298,8 @@
         <mxCell id="56JTBY622wwseTOTB9kN-87" value="异常输出信号确定" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="262" y="1527" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="56JTBY622wwseTOTB9kN-96" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="748.5" y="1632" width="41" height="26" as="geometry" />
+        <mxCell id="56JTBY622wwseTOTB9kN-96" value="异常输出信号生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="639" y="1023" width="114" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
