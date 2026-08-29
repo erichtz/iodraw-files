@@ -314,7 +314,7 @@
         <mxCell id="56JTBY622wwseTOTB9kN-106" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;stall[1] || flush || !word_aligned ?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="914" y="998" width="370" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="56JTBY622wwseTOTB9kN-109" value="ice = 0&lt;div&gt;（本拍不允许取值）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="56JTBY622wwseTOTB9kN-109" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ice = 0&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;（本拍不允许取值）&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="947" y="1161" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
