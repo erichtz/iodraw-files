@@ -17,7 +17,7 @@
             <mxPoint x="345" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="56JTBY622wwseTOTB9kN-2" value="posedge cpu_clk_50M&lt;div&gt;(每个始终上升沿)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="56JTBY622wwseTOTB9kN-2" value="posedge cpu_clk_50M&lt;div&gt;(每个时钟上升沿)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="275" y="180" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="56JTBY622wwseTOTB9kN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="56JTBY622wwseTOTB9kN-6">
