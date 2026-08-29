@@ -301,6 +301,9 @@
         <mxCell id="56JTBY622wwseTOTB9kN-96" value="异常输出信号生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="615" y="1019" width="162" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="56JTBY622wwseTOTB9kN-106" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1081" y="1003" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
