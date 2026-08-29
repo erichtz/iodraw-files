@@ -17,8 +17,11 @@
             <mxPoint x="110" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="56JTBY622wwseTOTB9kN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="56JTBY622wwseTOTB9kN-2" target="56JTBY622wwseTOTB9kN-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="56JTBY622wwseTOTB9kN-2" value="设置输入信号、输出信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="190" width="140" height="60" as="geometry" />
+          <mxGeometry x="40" y="220" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
