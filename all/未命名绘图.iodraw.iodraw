@@ -275,6 +275,9 @@
         <mxCell id="56JTBY622wwseTOTB9kN-83" value="if_exccode = EXC_ADEL&lt;div&gt;if_badvaddr_o = iaddr&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="303" y="1399" width="176" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="56JTBY622wwseTOTB9kN-86" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="606" y="1403" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
