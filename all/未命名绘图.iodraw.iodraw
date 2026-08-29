@@ -71,6 +71,9 @@
         <mxCell id="56JTBY622wwseTOTB9kN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="56JTBY622wwseTOTB9kN-23" target="56JTBY622wwseTOTB9kN-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="56JTBY622wwseTOTB9kN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="56JTBY622wwseTOTB9kN-23" target="56JTBY622wwseTOTB9kN-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="56JTBY622wwseTOTB9kN-23" value="stall[0] ==NOSTOP?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="475" y="500" width="170" height="55" as="geometry" />
         </mxCell>
@@ -82,6 +85,9 @@
         </mxCell>
         <mxCell id="56JTBY622wwseTOTB9kN-30" value="pc保持不变" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="56JTBY622wwseTOTB9kN-35" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="431" y="498" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
