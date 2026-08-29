@@ -230,13 +230,16 @@
             <mxPoint x="212.71428571428578" y="1243.9523228236608" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="56JTBY622wwseTOTB9kN-76" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="56JTBY622wwseTOTB9kN-75">
+        <mxCell id="56JTBY622wwseTOTB9kN-76" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="56JTBY622wwseTOTB9kN-75">
           <mxGeometry x="-0.8591" y="-7" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="56JTBY622wwseTOTB9kN-74" value="cpu_rst ==RST_ENABLE?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="247.75" y="1028" width="189.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="56JTBY622wwseTOTB9kN-77" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="134" y="1228" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
