@@ -254,7 +254,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="56JTBY622wwseTOTB9kN-74" value="cpu_rst ==RST_ENABLE?" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="56JTBY622wwseTOTB9kN-74" value="cpu_rst_n ==RST_ENABLE?" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="247.75" y="1028" width="189.5" height="121" as="geometry" />
         </mxCell>
         <mxCell id="56JTBY622wwseTOTB9kN-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="56JTBY622wwseTOTB9kN-77" target="56JTBY622wwseTOTB9kN-87">
