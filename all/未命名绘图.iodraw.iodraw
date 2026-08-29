@@ -301,6 +301,11 @@
         <mxCell id="56JTBY622wwseTOTB9kN-96" value="异常输出信号生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="615" y="1019" width="162" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="56JTBY622wwseTOTB9kN-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="56JTBY622wwseTOTB9kN-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1006.3333333333335" y="1161.1111450195312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="56JTBY622wwseTOTB9kN-106" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;stall[1] || flush || !word_aligned ?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="914" y="998" width="370" height="80" as="geometry" />
         </mxCell>
