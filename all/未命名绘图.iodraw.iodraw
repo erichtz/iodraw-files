@@ -108,8 +108,16 @@
         <mxCell id="56JTBY622wwseTOTB9kN-44" value="pc_plus_4 = PC + 4" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-142" y="286" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="56JTBY622wwseTOTB9kN-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="56JTBY622wwseTOTB9kN-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-227.7843376608455" y="463.11764705882365" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="56JTBY622wwseTOTB9kN-46" value="jtsel 取值？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-153" y="373" width="142" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="56JTBY622wwseTOTB9kN-49" value="00" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-194.5" y="373" width="31" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
