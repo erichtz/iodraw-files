@@ -21,7 +21,7 @@
         <mxCell id="56JTBY622wwseTOTB9kN-2" value="posedge cpu_clk_50M&lt;div style=&quot;font-size: 18px;&quot;&gt;(每个时钟上升沿)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="275" y="180" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="56JTBY622wwseTOTB9kN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="56JTBY622wwseTOTB9kN-6">
+        <mxCell id="56JTBY622wwseTOTB9kN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;entryX=0.365;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="56JTBY622wwseTOTB9kN-6" target="56JTBY622wwseTOTB9kN-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="480" as="targetPoint" />
           </mxGeometry>
@@ -43,7 +43,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="56JTBY622wwseTOTB9kN-9" value="pc &amp;lt;= PC_INIT" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="162" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="56JTBY622wwseTOTB9kN-13" value="pc &amp;lt;= cp0_excaddr" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="550" width="120" height="60" as="geometry" />
