@@ -215,7 +215,10 @@
           <mxGeometry x="-455" y="859" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="56JTBY622wwseTOTB9kN-71" value="iaddr = pc&lt;div&gt;word_aligned = (iaddr[1:0] == 2&#39;b00)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="345" y="857" width="311" height="60" as="geometry" />
+          <mxGeometry x="187" y="882" width="311" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="56JTBY622wwseTOTB9kN-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.638;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="56JTBY622wwseTOTB9kN-36" target="56JTBY622wwseTOTB9kN-71">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
