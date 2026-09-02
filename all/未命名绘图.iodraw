@@ -169,7 +169,7 @@
         <mxCell id="3MmFeGYNJKLrcFEByJrW-54" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;stallreq = NOSTOP&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1484" y="1512" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3MmFeGYNJKLrcFEByJrW-60" value="传递当前PC、延迟槽标志id_pc_o、id_in_delay_o" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3MmFeGYNJKLrcFEByJrW-60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;传递当前PC、延迟槽标志id_pc_o、id_in_delay_o&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1634" y="1152" width="181" height="111" as="geometry" />
         </mxCell>
       </root>
