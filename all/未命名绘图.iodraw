@@ -41,11 +41,20 @@
         <mxCell id="3MmFeGYNJKLrcFEByJrW-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;调整指令字节序生成内部指令 id_inst&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="444" y="483" width="179" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3MmFeGYNJKLrcFEByJrW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3MmFeGYNJKLrcFEByJrW-10" target="3MmFeGYNJKLrcFEByJrW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3MmFeGYNJKLrcFEByJrW-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;提取指令字段op、func、rs、rt、rd、sa、imm&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="249.5" y="610" width="197" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3MmFeGYNJKLrcFEByJrW-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3MmFeGYNJKLrcFEByJrW-13" target="3MmFeGYNJKLrcFEByJrW-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3MmFeGYNJKLrcFEByJrW-13" value="并行识别具体指令算术、逻辑、移位、乘除访存、分支、跳转SYSCALL、BREAK、ERETMFC0、MTC0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="209" y="723" width="278" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="3MmFeGYNJKLrcFEByJrW-16" value="检查指令是否合法生成 inst_invalid" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="308" y="878.5" width="172" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
