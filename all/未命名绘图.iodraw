@@ -118,9 +118,6 @@
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-15" value="多周期除法状态机" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="314" y="414" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RLqDjTRuIde5-T2Ny9p0-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLqDjTRuIde5-T2Ny9p0-16" target="RLqDjTRuIde5-T2Ny9p0-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-16" value="传递访存、写回、PC延迟槽及异常信号" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="460" y="414" width="120" height="60" as="geometry" />
         </mxCell>
