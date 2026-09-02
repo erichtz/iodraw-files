@@ -91,8 +91,8 @@
         <mxCell id="3MmFeGYNJKLrcFEByJrW-28" value="立即数处理&lt;div&gt;符号扩展/零扩展&lt;/div&gt;&lt;div&gt;LUI高位装载&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="623" y="1147" width="120" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="3MmFeGYNJKLrcFEByJrW-29" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="623" y="1292" width="120" height="60" as="geometry" />
+        <mxCell id="3MmFeGYNJKLrcFEByJrW-29" value="检测EX/MEM前递条件生成fwrd1、fwrd2" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="623" y="1292" width="121" height="103" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
