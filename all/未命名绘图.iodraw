@@ -113,18 +113,11 @@
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-19" value="根据exe_alutype_i&lt;div&gt;选择exe_wd_o&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-130" y="554" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RLqDjTRuIde5-T2Ny9p0-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLqDjTRuIde5-T2Ny9p0-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="151.6666259765625" y="673.3333740234375" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="116" y="579" />
-              <mxPoint x="116" y="631" />
-              <mxPoint x="152" y="631" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="RLqDjTRuIde5-T2Ny9p0-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLqDjTRuIde5-T2Ny9p0-24" target="RLqDjTRuIde5-T2Ny9p0-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RLqDjTRuIde5-T2Ny9p0-30" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RLqDjTRuIde5-T2Ny9p0-29">
-          <mxGeometry x="-0.0972" y="-2" relative="1" as="geometry">
+        <mxCell id="RLqDjTRuIde5-T2Ny9p0-35" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RLqDjTRuIde5-T2Ny9p0-34">
+          <mxGeometry y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
