@@ -31,7 +31,7 @@
         <mxCell id="cSPdAiBSJzuB9gJcRAqW-7" value="访存逻辑" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="cSPdAiBSJzuB9gJcRAqW-6">
           <mxGeometry width="87" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="cSPdAiBSJzuB9gJcRAqW-8" value="寄存器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="cSPdAiBSJzuB9gJcRAqW-6">
+        <mxCell id="cSPdAiBSJzuB9gJcRAqW-8" value="通用寄存器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="cSPdAiBSJzuB9gJcRAqW-6">
           <mxGeometry x="123" width="87" height="41" as="geometry" />
         </mxCell>
         <mxCell id="cSPdAiBSJzuB9gJcRAqW-9" value="CP0协处理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="cSPdAiBSJzuB9gJcRAqW-6">
