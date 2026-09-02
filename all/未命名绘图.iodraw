@@ -75,6 +75,14 @@
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-9" value="移位运算&lt;div&gt;得到shiftres&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-130" y="414" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RLqDjTRuIde5-T2Ny9p0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLqDjTRuIde5-T2Ny9p0-10" target="RLqDjTRuIde5-T2Ny9p0-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="444" />
+              <mxPoint x="10" y="584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-10" value="&lt;div&gt;算术、比较和访存地址计算arithres&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="22" y="414" width="120" height="60" as="geometry" />
         </mxCell>
