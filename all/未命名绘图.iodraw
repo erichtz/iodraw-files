@@ -181,8 +181,14 @@
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-43" value="DIV/DIVU结果是否就绪？" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="529" y="601" width="180" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="RLqDjTRuIde5-T2Ny9p0-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLqDjTRuIde5-T2Ny9p0-47" target="RLqDjTRuIde5-T2Ny9p0-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-47" value="stallreq_exe = STOP" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="469" y="732" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RLqDjTRuIde5-T2Ny9p0-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLqDjTRuIde5-T2Ny9p0-49" target="RLqDjTRuIde5-T2Ny9p0-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-49" value="stallreq_exe = NOSTOP" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="732" width="120" height="60" as="geometry" />
