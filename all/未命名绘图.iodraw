@@ -61,10 +61,10 @@
         </mxCell>
         <mxCell id="3MmFeGYNJKLrcFEByJrW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3MmFeGYNJKLrcFEByJrW-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="667" y="1099" as="targetPoint" />
+            <mxPoint x="1182" y="1112" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="668" y="1019" />
-              <mxPoint x="668" y="1099" />
+              <mxPoint x="1182" y="1019" />
+              <mxPoint x="1182" y="1099" />
             </Array>
           </mxGeometry>
         </mxCell>
