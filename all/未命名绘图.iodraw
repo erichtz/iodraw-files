@@ -53,7 +53,7 @@
           <mxGeometry x="-25" y="316" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cSPdAiBSJzuB9gJcRAqW-17" value="I/O译码" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="314" width="120" height="60" as="geometry" />
+          <mxGeometry x="208" y="316" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
