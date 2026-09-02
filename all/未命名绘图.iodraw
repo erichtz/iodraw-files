@@ -88,7 +88,7 @@
           <mxGeometry x="-351" y="1161" width="321" height="110" as="geometry" />
         </mxCell>
         <mxCell id="3MmFeGYNJKLrcFEByJrW-27" value="生成：ALU控制&lt;div style=&quot;font-size: 18px;&quot;&gt;寄存器读控制&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;写回与访存控制&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;选择目的寄存器&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;生成CP0地址&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="278" y="1147" width="189" height="111" as="geometry" />
+          <mxGeometry x="107" y="1146" width="189" height="111" as="geometry" />
         </mxCell>
         <mxCell id="3MmFeGYNJKLrcFEByJrW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3MmFeGYNJKLrcFEByJrW-28" target="3MmFeGYNJKLrcFEByJrW-29">
           <mxGeometry relative="1" as="geometry" />
