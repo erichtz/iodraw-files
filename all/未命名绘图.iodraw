@@ -91,7 +91,7 @@
         <mxCell id="cSPdAiBSJzuB9gJcRAqW-31" value="RGB LED" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="cSPdAiBSJzuB9gJcRAqW-29">
           <mxGeometry x="123" width="87" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="cSPdAiBSJzuB9gJcRAqW-32" value="八位七段数码管" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="cSPdAiBSJzuB9gJcRAqW-29">
+        <mxCell id="cSPdAiBSJzuB9gJcRAqW-32" value="8位七段数码管" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="cSPdAiBSJzuB9gJcRAqW-29">
           <mxGeometry x="245" width="87" height="41" as="geometry" />
         </mxCell>
         <mxCell id="cSPdAiBSJzuB9gJcRAqW-33" value="定时器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="cSPdAiBSJzuB9gJcRAqW-29">
