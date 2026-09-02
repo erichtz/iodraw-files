@@ -19,8 +19,11 @@
         <mxCell id="gxyTuOU2ou2CnuM3a5Vp-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;I/O译码&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="631" y="539" width="198" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="gxyTuOU2ou2CnuM3a5Vp-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="59" y="164" width="60" height="30" as="geometry" />
+        <mxCell id="gxyTuOU2ou2CnuM3a5Vp-5" value="ice" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="18" y="94" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gxyTuOU2ou2CnuM3a5Vp-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="18" y="124" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
