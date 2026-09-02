@@ -201,7 +201,7 @@
           <mxGeometry x="755" y="2024" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3MmFeGYNJKLrcFEByJrW-71" value="&lt;div&gt;寄存器读控制&lt;/div&gt;&lt;div&gt;写回与访存控制&lt;/div&gt;&lt;div&gt;选择目的寄存器&lt;/div&gt;&lt;div&gt;生成CP0地址&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="141.5" y="1362.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="1362.5" width="185" height="124.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
