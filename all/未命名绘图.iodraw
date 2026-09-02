@@ -86,10 +86,13 @@
           <mxGeometry x="-114" y="1112" width="321" height="110" as="geometry" />
         </mxCell>
         <mxCell id="3MmFeGYNJKLrcFEByJrW-27" value="生成：ALU控制&lt;div style=&quot;font-size: 18px;&quot;&gt;寄存器读控制&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;写回与访存控制&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;选择目的寄存器&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;生成CP0地址&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="1147" width="189" height="111" as="geometry" />
+          <mxGeometry x="278" y="1147" width="189" height="111" as="geometry" />
         </mxCell>
         <mxCell id="3MmFeGYNJKLrcFEByJrW-28" value="立即数处理&lt;div&gt;符号扩展/零扩展&lt;/div&gt;&lt;div&gt;LUI高位装载&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="623" y="1147" width="120" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="3MmFeGYNJKLrcFEByJrW-29" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="623" y="1292" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
