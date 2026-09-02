@@ -101,7 +101,7 @@
           <mxGeometry x="-130" y="554" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-24" value="ADD/SUB是否溢出？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="178" y="514" width="80" height="80" as="geometry" />
+          <mxGeometry x="148.5" y="548" width="154" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
