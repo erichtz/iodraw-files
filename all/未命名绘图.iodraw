@@ -90,7 +90,7 @@
         <mxCell id="3MmFeGYNJKLrcFEByJrW-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3MmFeGYNJKLrcFEByJrW-27" target="3MmFeGYNJKLrcFEByJrW-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3MmFeGYNJKLrcFEByJrW-27" value="生成：ALU控制" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3MmFeGYNJKLrcFEByJrW-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;生成ALU控制&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="107" y="1146" width="189" height="111" as="geometry" />
         </mxCell>
         <mxCell id="3MmFeGYNJKLrcFEByJrW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3MmFeGYNJKLrcFEByJrW-28" target="3MmFeGYNJKLrcFEByJrW-29">
