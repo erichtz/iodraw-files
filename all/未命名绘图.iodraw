@@ -210,6 +210,13 @@
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-49" value="stallreq_exe = NOSTOP" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="732" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RLqDjTRuIde5-T2Ny9p0-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLqDjTRuIde5-T2Ny9p0-53" target="RLqDjTRuIde5-T2Ny9p0-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-400" y="887" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-53" value="组合输出置默认值&lt;div style=&quot;font-size: 18px;&quot;&gt;除法状态机回到 DIV_FREE&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-473" y="414" width="146" height="93" as="geometry" />
         </mxCell>
