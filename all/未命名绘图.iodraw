@@ -115,11 +115,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="RLqDjTRuIde5-T2Ny9p0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLqDjTRuIde5-T2Ny9p0-15" target="RLqDjTRuIde5-T2Ny9p0-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-15" value="多周期除法状态机" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="314" y="414" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-16" value="传递访存、写回、PC延迟槽及异常信号" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="878" y="408" width="120" height="60" as="geometry" />
+          <mxGeometry x="767" y="402" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-19" value="根据exe_alutype_i&lt;div&gt;选择exe_wd_o&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-130" y="554" width="120" height="60" as="geometry" />
@@ -154,7 +157,7 @@
         </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLqDjTRuIde5-T2Ny9p0-43">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="605" y="674" as="targetPoint" />
+            <mxPoint x="533" y="731" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-46" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RLqDjTRuIde5-T2Ny9p0-45">
@@ -164,7 +167,7 @@
         </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.492;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLqDjTRuIde5-T2Ny9p0-43" target="RLqDjTRuIde5-T2Ny9p0-49">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="784" y="672" as="targetPoint" />
+            <mxPoint x="712" y="729" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-50" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RLqDjTRuIde5-T2Ny9p0-48">
@@ -173,13 +176,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-43" value="DIV/DIVU结果是否就绪？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="601" y="544" width="180" height="80" as="geometry" />
+          <mxGeometry x="529" y="601" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-47" value="stallreq_exe = STOP" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="541" y="675" width="120" height="60" as="geometry" />
+          <mxGeometry x="469" y="732" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-49" value="stallreq_exe = NOSTOP" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="722" y="675" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="732" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
