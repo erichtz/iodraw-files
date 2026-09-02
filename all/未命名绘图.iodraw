@@ -51,10 +51,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3MmFeGYNJKLrcFEByJrW-13" value="并行识别具体指令算术、逻辑、移位、乘除访存、分支、跳转SYSCALL、BREAK、ERETMFC0、MTC0" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="209" y="723" width="278" height="77" as="geometry" />
+          <mxGeometry x="190.5" y="721" width="315" height="97" as="geometry" />
         </mxCell>
         <mxCell id="3MmFeGYNJKLrcFEByJrW-16" value="检查指令是否合法生成 inst_invalid" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="262" y="854" width="172" height="80" as="geometry" />
+          <mxGeometry x="262" y="854" width="218" height="101" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
