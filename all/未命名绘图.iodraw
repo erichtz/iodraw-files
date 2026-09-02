@@ -49,6 +49,13 @@
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLqDjTRuIde5-T2Ny9p0-5" target="RLqDjTRuIde5-T2Ny9p0-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RLqDjTRuIde5-T2Ny9p0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLqDjTRuIde5-T2Ny9p0-5" target="RLqDjTRuIde5-T2Ny9p0-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-5" value="正常执行各数据通路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-19" y="335" width="120" height="60" as="geometry" />
         </mxCell>
