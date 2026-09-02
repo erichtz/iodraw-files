@@ -18,7 +18,7 @@
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-0" value="输入执行阶段信号&lt;div&gt;Alutype、ALUop、源操作数、写回/访存控制、PC、异常信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-66.5" y="116" width="215" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RLqDjTRuIde5-T2Ny9p0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLqDjTRuIde5-T2Ny9p0-1">
+        <mxCell id="RLqDjTRuIde5-T2Ny9p0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLqDjTRuIde5-T2Ny9p0-1" target="RLqDjTRuIde5-T2Ny9p0-53">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-390.3332824707031" y="366.6666259765625" as="targetPoint" />
           </mxGeometry>
@@ -185,7 +185,7 @@
           <mxGeometry x="650" y="732" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-53" value="组合输出置默认值&lt;div&gt;除法状态机回到 DIV_FREE&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-489" y="383" width="120" height="60" as="geometry" />
+          <mxGeometry x="-447" y="414" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
