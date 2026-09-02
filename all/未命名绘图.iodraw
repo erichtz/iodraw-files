@@ -76,8 +76,20 @@
         <mxCell id="cSPdAiBSJzuB9gJcRAqW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.873;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cSPdAiBSJzuB9gJcRAqW-17" target="cSPdAiBSJzuB9gJcRAqW-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cSPdAiBSJzuB9gJcRAqW-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="241" y="346" width="120" height="60" as="geometry" />
+        <mxCell id="cSPdAiBSJzuB9gJcRAqW-29" value="" style="group;fontSize=16;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="72" y="496" width="455" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="cSPdAiBSJzuB9gJcRAqW-30" value="访存逻辑" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="cSPdAiBSJzuB9gJcRAqW-29">
+          <mxGeometry width="87" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="cSPdAiBSJzuB9gJcRAqW-31" value="寄存器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="cSPdAiBSJzuB9gJcRAqW-29">
+          <mxGeometry x="123" width="87" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="cSPdAiBSJzuB9gJcRAqW-32" value="CP0协处理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="cSPdAiBSJzuB9gJcRAqW-29">
+          <mxGeometry x="245" width="87" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="cSPdAiBSJzuB9gJcRAqW-33" value="异常处理逻辑" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="cSPdAiBSJzuB9gJcRAqW-29">
+          <mxGeometry x="368" width="87" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
