@@ -10,13 +10,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JruzzLBOfA1Wuh3XBYkf-0" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-19" y="-2" width="120" height="60" as="geometry" />
+          <mxGeometry x="-19" y="-35" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLqDjTRuIde5-T2Ny9p0-0" target="RLqDjTRuIde5-T2Ny9p0-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-0" value="输入执行阶段信号&lt;div style=&quot;font-size: 18px;&quot;&gt;Alutype、ALUop、源操作数、写回/访存控制、PC、异常信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-66.5" y="116" width="215" height="60" as="geometry" />
+          <mxGeometry x="-66.5" y="90" width="215" height="86" as="geometry" />
         </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLqDjTRuIde5-T2Ny9p0-1" target="RLqDjTRuIde5-T2Ny9p0-53">
           <mxGeometry relative="1" as="geometry">
@@ -169,7 +169,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLqDjTRuIde5-T2Ny9p0-39" target="RLqDjTRuIde5-T2Ny9p0-54">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="436" y="746" />
+              <mxPoint x="341" y="746" />
+              <mxPoint x="341" y="849" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-39" value="根据exe_aluop_i&lt;div style=&quot;font-size: 18px;&quot;&gt;选择exe_hilo_o&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="567" width="152" height="75" as="geometry" />
