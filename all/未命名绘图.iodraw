@@ -111,7 +111,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="374" y="505" />
-              <mxPoint x="452" y="505" />
+              <mxPoint x="436" y="505" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -122,7 +122,7 @@
           <mxGeometry x="314" y="414" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-16" value="传递访存、写回、PC延迟槽及异常信号" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="811" y="469" width="120" height="60" as="geometry" />
+          <mxGeometry x="811" y="469" width="137" height="73" as="geometry" />
         </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-19" value="根据exe_alutype_i&lt;div style=&quot;font-size: 18px;&quot;&gt;选择exe_wd_o&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-130" y="554" width="120" height="109" as="geometry" />
