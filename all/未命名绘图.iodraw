@@ -168,8 +168,8 @@
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-43" value="DIV/DIVU结果是否就绪？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="601" y="544" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RLqDjTRuIde5-T2Ny9p0-47" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="527" y="675" width="120" height="60" as="geometry" />
+        <mxCell id="RLqDjTRuIde5-T2Ny9p0-47" value="stallreq_exe = STOP" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="541" y="675" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
