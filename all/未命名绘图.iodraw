@@ -77,7 +77,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cSPdAiBSJzuB9gJcRAqW-29" value="" style="group;fontSize=16;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="54" y="441" width="455" height="41" as="geometry" />
+          <mxGeometry x="54" y="441" width="455" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="cSPdAiBSJzuB9gJcRAqW-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cSPdAiBSJzuB9gJcRAqW-29">
+          <mxGeometry x="-13" y="-7" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cSPdAiBSJzuB9gJcRAqW-30" value="普通LED" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="cSPdAiBSJzuB9gJcRAqW-29">
           <mxGeometry width="87" height="41" as="geometry" />
@@ -102,9 +105,6 @@
             <mxPoint x="174" y="441" as="sourcePoint" />
             <mxPoint x="337" y="375" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="cSPdAiBSJzuB9gJcRAqW-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="194" y="326" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
