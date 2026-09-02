@@ -65,7 +65,10 @@
           <mxGeometry x="440" y="150" width="57" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gxyTuOU2ou2CnuM3a5Vp-23" value="Inst_addr" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="531.5" y="193" width="68" height="26" as="geometry" />
+          <mxGeometry x="429" y="176" width="68" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gxyTuOU2ou2CnuM3a5Vp-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530.5" y="204" width="41" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
