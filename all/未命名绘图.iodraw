@@ -99,6 +99,13 @@
         <mxCell id="3MmFeGYNJKLrcFEByJrW-20" value="cpu_rst_n ==RST_ENABLE？" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="224.75" y="979" width="246.5" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="3MmFeGYNJKLrcFEByJrW-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3MmFeGYNJKLrcFEByJrW-23" target="3MmFeGYNJKLrcFEByJrW-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-203" y="2101" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3MmFeGYNJKLrcFEByJrW-23" value="输出复位默认值&lt;div style=&quot;font-size: 18px;&quot;&gt;禁止寄存器/HILO写入&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;取消访存和暂停请求&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;异常码置 EXC_NONE&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;数据与控制信号置默认值&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-353" y="1433.5" width="321" height="110" as="geometry" />
         </mxCell>
