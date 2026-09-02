@@ -19,7 +19,7 @@
           <mxGeometry x="-66.5" y="116" width="215" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-1" value="cpu_rst_n是否复位有效？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1" y="246" width="80" height="80" as="geometry" />
+          <mxGeometry x="1" y="246" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
