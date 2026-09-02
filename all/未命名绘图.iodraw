@@ -47,13 +47,14 @@
         <mxCell id="3MmFeGYNJKLrcFEByJrW-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;提取指令字段op、func、rs、rt、rd、sa、imm&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="249.5" y="610" width="197" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3MmFeGYNJKLrcFEByJrW-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3MmFeGYNJKLrcFEByJrW-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="348" y="851" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="3MmFeGYNJKLrcFEByJrW-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3MmFeGYNJKLrcFEByJrW-13" target="3MmFeGYNJKLrcFEByJrW-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3MmFeGYNJKLrcFEByJrW-13" value="并行识别具体指令算术、逻辑、移位、乘除访存、分支、跳转SYSCALL、BREAK、ERETMFC0、MTC0" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190.5" y="721" width="315" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="3MmFeGYNJKLrcFEByJrW-18" value="检查指令是否合法生成 inst_invalid" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="288" y="916.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
