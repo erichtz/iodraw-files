@@ -204,7 +204,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3MmFeGYNJKLrcFEByJrW-71" value="&lt;div&gt;生成寄存器读控制&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="109" y="1331" width="185" height="124.5" as="geometry" />
+          <mxGeometry x="108" y="1292" width="185" height="124.5" as="geometry" />
         </mxCell>
         <mxCell id="3MmFeGYNJKLrcFEByJrW-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3MmFeGYNJKLrcFEByJrW-73" target="3MmFeGYNJKLrcFEByJrW-75">
           <mxGeometry relative="1" as="geometry" />
@@ -219,7 +219,7 @@
           <mxGeometry x="107" y="1806.01" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3MmFeGYNJKLrcFEByJrW-77" value="生成CP0地址" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="108" y="1946.01" width="151.5" height="60" as="geometry" />
+          <mxGeometry x="108" y="1946.01" width="182" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
