@@ -206,7 +206,7 @@
         <mxCell id="3MmFeGYNJKLrcFEByJrW-71" value="&lt;div&gt;生成寄存器读控制&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="109" y="1331" width="185" height="124.5" as="geometry" />
         </mxCell>
-        <mxCell id="3MmFeGYNJKLrcFEByJrW-73" value="&lt;div&gt;写回与访存控制&lt;/div&gt;&lt;div&gt;选择目的寄存器&lt;/div&gt;&lt;div&gt;生成CP0地址&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3MmFeGYNJKLrcFEByJrW-73" value="&lt;div&gt;生成写回与访存控制&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="106" y="1567.75" width="190" height="119.25" as="geometry" />
         </mxCell>
       </root>
