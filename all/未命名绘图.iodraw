@@ -113,11 +113,13 @@
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-19" value="根据exe_alutype_i&lt;div&gt;选择exe_wd_o&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-130" y="554" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RLqDjTRuIde5-T2Ny9p0-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLqDjTRuIde5-T2Ny9p0-24">
+        <mxCell id="RLqDjTRuIde5-T2Ny9p0-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLqDjTRuIde5-T2Ny9p0-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="151.6666259765625" y="673.3333740234375" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="152" y="594" />
+              <mxPoint x="149" y="594" />
+              <mxPoint x="116" y="594" />
+              <mxPoint x="116" y="673" />
             </Array>
           </mxGeometry>
         </mxCell>
