@@ -127,6 +127,13 @@
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-16" value="传递访存、写回、PC延迟槽及异常信号" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="811" y="469" width="137" height="73" as="geometry" />
         </mxCell>
+        <mxCell id="RLqDjTRuIde5-T2Ny9p0-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLqDjTRuIde5-T2Ny9p0-19" target="RLqDjTRuIde5-T2Ny9p0-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-70" y="887" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-19" value="根据exe_alutype_i&lt;div style=&quot;font-size: 18px;&quot;&gt;选择exe_wd_o&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-130" y="554" width="120" height="109" as="geometry" />
         </mxCell>
@@ -140,6 +147,9 @@
         </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-24" value="ADD/SUB是否溢出？" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="148.5" y="548" width="154" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="RLqDjTRuIde5-T2Ny9p0-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLqDjTRuIde5-T2Ny9p0-32" target="RLqDjTRuIde5-T2Ny9p0-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-32" value="exe_exccode_o = EXC_OV" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="89" y="675" width="120" height="60" as="geometry" />
