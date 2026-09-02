@@ -195,10 +195,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3MmFeGYNJKLrcFEByJrW-65" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;汇总译码结果并输出送往执行级、寄存器堆、PC控制流水线控制及异常处理模块&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="679.5" y="1821" width="271" height="135" as="geometry" />
+          <mxGeometry x="661" y="2033" width="271" height="135" as="geometry" />
         </mxCell>
         <mxCell id="3MmFeGYNJKLrcFEByJrW-66" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="755" y="2024" width="120" height="60" as="geometry" />
+          <mxGeometry x="736.5" y="2236" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3MmFeGYNJKLrcFEByJrW-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3MmFeGYNJKLrcFEByJrW-71" target="3MmFeGYNJKLrcFEByJrW-73">
           <mxGeometry relative="1" as="geometry" />
@@ -219,7 +219,10 @@
           <mxGeometry x="108.5" y="1625" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3MmFeGYNJKLrcFEByJrW-77" value="生成CP0地址" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="108" y="1946.01" width="182" height="60" as="geometry" />
+          <mxGeometry x="111.5" y="1739" width="182" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3MmFeGYNJKLrcFEByJrW-79" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="411" y="1862" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
