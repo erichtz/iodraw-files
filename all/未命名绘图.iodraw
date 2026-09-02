@@ -118,6 +118,9 @@
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-15" value="多周期除法状态机" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="314" y="414" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RLqDjTRuIde5-T2Ny9p0-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLqDjTRuIde5-T2Ny9p0-16" target="RLqDjTRuIde5-T2Ny9p0-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-16" value="传递访存、写回、PC延迟槽及异常信号" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="631" y="412" width="120" height="60" as="geometry" />
         </mxCell>
@@ -152,8 +155,13 @@
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-39" value="根据exe_aluop_i&lt;div&gt;选择exe_hilo_o&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="444" y="567" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RLqDjTRuIde5-T2Ny9p0-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLqDjTRuIde5-T2Ny9p0-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="597.3138212316176" y="699.1961741727941" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-43" value="DIV/DIVU结果是否就绪？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="661" y="538.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="601" y="544" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
