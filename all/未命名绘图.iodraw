@@ -47,8 +47,8 @@
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-7" value="逻辑运算&lt;div&gt;得到logicres&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-282" y="414" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RLqDjTRuIde5-T2Ny9p0-9" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-149" y="425" width="120" height="60" as="geometry" />
+        <mxCell id="RLqDjTRuIde5-T2Ny9p0-9" value="移位运算&lt;div&gt;得到shiftres&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-129" y="434" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
