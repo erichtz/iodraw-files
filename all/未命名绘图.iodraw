@@ -59,8 +59,8 @@
         <mxCell id="3MmFeGYNJKLrcFEByJrW-18" value="检查指令是否合法生成 inst_invalid" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="288" y="872" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3MmFeGYNJKLrcFEByJrW-20" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="308" y="975" width="80" height="80" as="geometry" />
+        <mxCell id="3MmFeGYNJKLrcFEByJrW-20" value="cpu_rst_n ==RST_ENABLE？" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="253.5" y="976" width="189" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
