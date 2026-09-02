@@ -39,6 +39,9 @@
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-5" value="正常执行各数据通路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-19" y="335" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RLqDjTRuIde5-T2Ny9p0-7" value="逻辑运算&lt;div&gt;得到logicres&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-282" y="414" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
