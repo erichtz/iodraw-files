@@ -83,7 +83,7 @@
           <mxGeometry x="224.75" y="979" width="246.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3MmFeGYNJKLrcFEByJrW-23" value="输出复位默认值&lt;div&gt;禁止寄存器/HILO写入&lt;/div&gt;&lt;div&gt;取消访存和暂停请求&lt;/div&gt;&lt;div&gt;异常码置 EXC_NONE&lt;/div&gt;&lt;div&gt;数据与控制信号置默认值&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-114" y="1112" width="321" height="110" as="geometry" />
+          <mxGeometry x="-351" y="1161" width="321" height="110" as="geometry" />
         </mxCell>
         <mxCell id="3MmFeGYNJKLrcFEByJrW-27" value="生成：ALU控制&lt;div style=&quot;font-size: 18px;&quot;&gt;寄存器读控制&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;写回与访存控制&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;选择目的寄存器&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;生成CP0地址&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="278" y="1147" width="189" height="111" as="geometry" />
