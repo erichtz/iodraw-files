@@ -59,8 +59,16 @@
         <mxCell id="3MmFeGYNJKLrcFEByJrW-18" value="检查指令是否合法生成 inst_invalid" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="288" y="872" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3MmFeGYNJKLrcFEByJrW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3MmFeGYNJKLrcFEByJrW-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="48.33331298828125" y="1110.6667175292969" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3MmFeGYNJKLrcFEByJrW-20" value="cpu_rst_n ==RST_ENABLE？" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="253.5" y="976" width="189" height="80" as="geometry" />
+          <mxGeometry x="224.75" y="979" width="246.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3MmFeGYNJKLrcFEByJrW-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="353" y="1141" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
