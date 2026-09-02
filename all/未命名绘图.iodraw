@@ -31,6 +31,11 @@
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-1" value="cpu_rst_n复位是否有效？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-64" y="212" width="210" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="RLqDjTRuIde5-T2Ny9p0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLqDjTRuIde5-T2Ny9p0-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-224.33328247070312" y="413.33331298828125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-5" value="正常执行各数据通路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-19" y="335" width="120" height="60" as="geometry" />
         </mxCell>
