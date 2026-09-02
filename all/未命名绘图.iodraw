@@ -195,8 +195,8 @@
         <mxCell id="RLqDjTRuIde5-T2Ny9p0-54" value="输出到访存阶段、CP0、HILO、流水线控制和异常处理模块" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="104" y="866" width="205" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RLqDjTRuIde5-T2Ny9p0-56" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="988" width="120" height="60" as="geometry" />
+        <mxCell id="RLqDjTRuIde5-T2Ny9p0-57" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="142" y="1004" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
