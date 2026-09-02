@@ -209,10 +209,13 @@
             <Array as="points">
               <mxPoint x="849" y="824" />
               <mxPoint x="849" y="979" />
-              <mxPoint x="564" y="979" />
-              <mxPoint x="564" y="859" />
+              <mxPoint x="155" y="979" />
+              <mxPoint x="155" y="859" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gxyTuOU2ou2CnuM3a5Vp-72" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="919.5" y="824" width="41" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
