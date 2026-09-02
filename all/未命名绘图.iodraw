@@ -7,7 +7,7 @@
         <mxCell id="3MmFeGYNJKLrcFEByJrW-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="288" y="73" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3MmFeGYNJKLrcFEByJrW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3MmFeGYNJKLrcFEByJrW-1" value="输入信号id_inst_i、id_pc_i、pc_plus_4rd1、rd2EX/MEM 前递信息异常与延迟槽信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="353" y="292" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
